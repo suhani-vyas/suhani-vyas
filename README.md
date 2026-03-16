@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey! I'm [YOUR FULL NAME]
+# 👋 Hey! I'm Suhani Vyas
 
-### [YEAR]-Year Student | [SPECIALIZATION] • Passionate about [PRIMARY_INTEREST]
+### Second-Year Student | CSE • Passionate about [PRIMARY_INTEREST]
 
 [![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
 [![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
@@ -12,11 +12,11 @@
 ---
 
 ### 🎓 About Me
-- 🏫 Studying **[DEGREE]** at **[COLLEGE NAME]**, [CITY], [COUNTRY]
+- 🏫 Studying **CSE** at **ABES Engineering College**,Ghaziabad, India
 - 🎯 Specializing in **[YOUR FOCUS AREA]** & **[SECONDARY_FOCUS]**
-- 💼 Currently **[Interning at COMPANY / Working on PROJECT / Open to Opportunities]**
+- 💼 Currently open to opportunities
 - 🚀 Passionate about **[YOUR_PASSION]**
-- 🌍 Based in **[LOCATION]**
+- 🌍 Based in **Delhi NCR**
 
 ---
 
@@ -78,7 +78,7 @@
 ### 📫 Get In Touch
 | Platform | Link |
 |----------|------|
-| **Email** | [YOUR.EMAIL@example.com](mailto:YOUR.EMAIL@example.com) |
+| **Email** | (mailto:suhani29vyas@gmail.com) |
 | **Portfolio** | [YOUR_PORTFOLIO_LINK](https://yourportfolio.com) |
 | **Discord** | YOUR_DISCORD_TAG |
 
@@ -137,9 +137,9 @@
 ---
 
 ### ⚡ Fun Facts About Me
-- 🎮 I love **[HOBBY 1]** and **[HOBBY 2]** in my free time
+- 🎮 I love **Writing** and **doing artsy stuff** in my free time
 - 🎓 Fun fact: **[ONE INTERESTING THING ABOUT YOU]**
-- 🎵 Currently vibing to: **[MUSIC GENRE/ARTIST]**
+- 🎵 Currently vibing to: **pop music**
 - ☕ Coffee enthusiast starting every coding session with a ☕
 
 ---
