@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hey! I'm Suhani Vyas
+# Hey! I'm Suhani Vyas
 
-### Third-Year Student | CSE • Passionate about [PRIMARY_INTEREST]
+### Third-Year Student | Engineering Student | Java • DSA • Open Source
 
 [![Profile Views](https://komarev.com/ghpvc/?username=suhani-vyas&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/suhani-vyas)
 [![GitHub followers](https://img.shields.io/github/followers/suhani-vyas?style=flat-square&logo=github)](https://github.com/suhani-vyas)
@@ -21,7 +21,7 @@
 ---
 
 ### 🌱 Currently Learning
-**[TECHNOLOGY 1]** • **[TECHNOLOGY 2]** • **[TECHNOLOGY 3]** • **[TECHNOLOGY 4]**
+**SQL** • **DSA** •
 ---
 
 ### 💻 Tech Skills
