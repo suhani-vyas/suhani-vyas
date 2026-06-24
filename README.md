@@ -2,7 +2,7 @@
   
 # 👋 Hey! I'm Suhani Vyas
 
-### Second-Year Student | CSE • Passionate about [PRIMARY_INTEREST]
+### Third-Year Student | CSE • Passionate about [PRIMARY_INTEREST]
 
 [![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
 [![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
@@ -117,10 +117,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight)
 
