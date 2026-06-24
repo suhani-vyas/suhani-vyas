@@ -15,13 +15,13 @@ Building projects, solving problems, and learning something new with every commi
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 B.Tech CSE student at **ABES Engineering College, Ghaziabad**
-- 💡 Interested in **Software Development** and **Problem Solving**
-- 🌱 Currently learning **SQL** and **Spring Boot**
-- ⚡ Practicing **Data Structures & Algorithms in Java**
-- 🌍 Based in **Delhi NCR, India**
+-  B.Tech CSE student at **ABES Engineering College, Ghaziabad**
+-  Interested in **Software Development** and **Problem Solving**
+-  Currently learning **SQL** and **Spring Boot**
+-  Practicing **Data Structures & Algorithms in Java**
+-  Based in **Delhi NCR, India**
 
 ---
 
@@ -52,17 +52,17 @@ Building projects, solving problems, and learning something new with every commi
 
 ## 📌 Featured Projects
 
-### 🚀 Project 1
+###  Project 1
 
 
 **Tech:** 
 
-### 🚀 Project 2
+###  Project 2
 
 
 **Tech:**
 
-### 🚀 Project 3
+###  Project 3
 
 
 **Tech:** 
