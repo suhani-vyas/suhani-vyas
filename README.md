@@ -117,9 +117,13 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suhani-vyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff&icon_color=00d4ff)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhani-vyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70f0ff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suhani-vyas&theme=tokyonight)
+
 
 </div>
 
