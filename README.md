@@ -4,8 +4,8 @@
 
 ### Third-Year Student | CSE • Passionate about [PRIMARY_INTEREST]
 
-[![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
-[![GitHub followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=flat-square&logo=github)](https://github.com/[YOUR_GITHUB_USERNAME])
+[![Profile Views](https://komarev.com/ghpvc/?username=suhani-vyas&label=Profile%20views&color=0e75b6&style=flat-square&logo=github)](https://github.com/suhani-vyas)
+[![GitHub followers](https://img.shields.io/github/followers/suhani-vyas?style=flat-square&logo=github)](https://github.com/suhani-vyas)
 
 </div>
 
