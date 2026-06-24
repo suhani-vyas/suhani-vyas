@@ -52,10 +52,10 @@ Building projects, solving problems, and learning something new with every commi
 
 ## 📌 Featured Projects
 
-###  Project 1
+###  Project 1 - Personal Portfolio website
 
 
-**Tech:** 
+**Tech:** - HTML, CSS, Javascript (Vanilla JS)
 
 ###  Project 2
 
