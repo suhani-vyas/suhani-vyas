@@ -112,5 +112,5 @@ Building projects, solving problems, and learning something new with every commi
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=react-dark" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani-vyas&theme=react-dark" alt="activity graph" />
 </p>
