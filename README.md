@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Suhani Vyas!
+# Hey, I'm Suhani Vyas
 
 ### Engineering Student • Java • DSA
 
