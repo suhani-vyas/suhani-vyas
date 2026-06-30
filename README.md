@@ -19,7 +19,7 @@ Building projects, solving problems, and learning something new with every commi
 
 -  B.Tech CSE student at **ABES Engineering College, Ghaziabad**
 -  Interested in **Software Development** and **Problem Solving**
--  Currently learning **SQL** and **Spring Boot**
+-  Currently learning **SQL** and **MERN Stack**
 -  Practicing **Data Structures & Algorithms in Java**
 -  Based in **Delhi NCR, India**
 
